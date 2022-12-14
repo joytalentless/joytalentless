@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daniel-Dent
-- 👀 I’m interested in Frontend develope
+- 👀 I’m interested in Full stack development.
 - 🌱 I’m currently learning Next.js & Nest.js based on Microservice architecture.
-- 💞️ I’m looking to collaborate on react & all frontend project.
+- 💞️ I’m looking to collaborate on react & java & all full stack project.
 - 📫 How to reach me danieldent20@gmail.com
 
 <!---
