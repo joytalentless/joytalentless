@@ -8,7 +8,7 @@
 ## <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="30" height="30" /> Who I am?
 
 <p>
-<img align="right" width="450" height="270" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" width="460" height="270" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <!-- <img align="right" width="470" height="270" alt="" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" />
  -->
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1400&color=F1FBFFF6&background=1B9AD7&center=true&vCenter=true&width=500&lines=Sincere+and+Reliable+Java+Backend+Developer;8+%2B+years+of+hands-on+experience;Perfect+Client-Oriented+Guy" alt="Typing SVG" /></a> -->
