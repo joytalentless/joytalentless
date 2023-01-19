@@ -3,37 +3,26 @@
 -->
 
 
-## 🙋‍♂️ About Me
+
+
+## <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="50" height="50" /> About Me
 
 <p>
-  <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-<img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Java%20Backend%20Developer;8+%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
+<img align="right" width="500" height="300" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+<a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1400&color=F1FBFFF6&background=1B9AD7&center=true&vCenter=true&width=500&lines=Sincere+and+Reliable+Java+Backend+Developer;8+%2B+years+of+hands-on+experience;Perfect+Client-Oriented+Guy" alt="Typing SVG" /></a>
+  
 &nbsp;&nbsp;Qualified Software Engineer with <strong>8+</strong> years of hands-on IT experience with main emphasis on <strong>backend development</strong> using <strong>Java</strong>, <strong>Spring</strong> and <strong>Spring Boot</strong> framework with <strong>Microservice architectures</strong>. Participated in leading teams, development of services, components, modules, staff training, writing tests, support and maintenance of existing codebase.<br>
 &nbsp;&nbsp;The strength of me is that I am <strong>Always Sensitive</strong> to modern technologies and <strong>Open to New</strong> things. The past work shows that I understand and embody the needs of customers and be creative on their own.<br>
 &nbsp;&nbsp;I am glad to say that I aim to be the <strong>Perfect Client-Oriented Developer</strong>.
 
 </p>
 
-<br>
+<br><br><br>
 
 <!-- ## 🤗 Welcome -->
 
-### 🤗 Contribution
-
-<p align=center>
-<div align=center>
-<img align=right width=420 src="https://github-readme-stats.vercel.app/api?username=ericvale0128&hide=prs&include_all_commits=true&theme=onedark&layout=compact&show_icons=true" />
-<img align=left width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=ericvale0128&theme=onedark" />
-<br>
-<br>
-<br>
-</div>
-</p>
-
-<br><br><br>
-
-
-### 🍯 Technical Stack
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Technical Stack
 - ☕ Java 𒑰 Spring Boot 𒑰 Spring 𒑰 MVC 𒑰 Microservices 𒑰 Java Beans 𒑰 RESTful Web Services 𒑰 AWS
 - 📚 Hibernate 𒑰 MySQL 𒑰 MariaDB 𒑰 Postgres 𒑰 MongoDB 𒑰 DynamoDB
 - 🎒 Swagger API 𒑰 Zuul 𒑰 Eureka 𒑰 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django
