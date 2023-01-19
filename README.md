@@ -8,9 +8,10 @@
 ## <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="50" height="50" /> About Me
 
 <p>
-<img align="right" width="500" height="350" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<!-- <img align="right" width="500" height="350" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
+<img align="right" width="470" height="270" alt="" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1400&color=F1FBFFF6&background=1B9AD7&center=true&vCenter=true&width=500&lines=Sincere+and+Reliable+Java+Backend+Developer;8+%2B+years+of+hands-on+experience;Perfect+Client-Oriented+Guy" alt="Typing SVG" /></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1400&color=F1FBFFF6&background=1B9AD7&center=true&vCenter=true&width=500&lines=Sincere+and+Reliable+Java+Backend+Developer;8+%2B+years+of+hands-on+experience;Perfect+Client-Oriented+Guy" alt="Typing SVG" /></a> -->
   
 &nbsp;&nbsp;Qualified Software Engineer with <strong>8+</strong> years of hands-on IT experience with main emphasis on <strong>backend development</strong> using <strong>Java</strong>, <strong>Spring</strong> and <strong>Spring Boot</strong> framework with <strong>Microservice architectures</strong>. Participated in leading teams, development of services, components, modules, staff training, writing tests, support and maintenance of existing codebase.<br>
 &nbsp;&nbsp;The strength of me is that I am <strong>Always Sensitive</strong> to modern technologies and <strong>Open to New</strong> things. The past work shows that I understand and embody the needs of customers and be creative on their own.<br>
@@ -18,7 +19,7 @@
 
 </p>
 
-<br><br><br>
+<br><br>
 
 <!-- ## 🤗 Welcome -->
 
