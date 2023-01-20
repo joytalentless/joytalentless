@@ -8,7 +8,7 @@
 ## <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="30" height="30" /> Who I am?
 
 <p>
-<img align="right" width="300" height="280" alt="" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif" />
+<img align="right" width="350" height="310" alt="" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif" />
 <!-- <img align="right" alt="" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" /> -->
  
 <!-- <img align="right" width="470" height="270" alt="" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" />
