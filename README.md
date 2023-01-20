@@ -15,7 +15,7 @@
  
  
  
-<img align="right" width="380" height="330" alt="" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif" />
+<img align="right" width="350" height="320" alt="" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif" />
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=0C2B39&center=true&vCenter=true&width=550&height=70&lines=8%2B+years+of+hands-on+IT+experience;Sincere+and+Reliable+Java+Backend+Developer;Perfect+Client-Oriented+Guy" alt="Typing SVG" /></a>
   
