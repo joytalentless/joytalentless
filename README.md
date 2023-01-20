@@ -13,10 +13,10 @@
 
 <p >
  
-<img align="right" width="290" height="270" alt="" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif" />
+<img align="right" width="340" height="300" alt="" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif" />
 <!-- 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=0C2B39&center=true&vCenter=true&width=450&height=70&lines=8%2B+years+of+hands-on+IT+experience;Sincere+and+Reliable+Java+Backend+Developer;Perfect+Client-Oriented+Guy" alt="Typing SVG" /></a> -->
-  
+  <br>
 &nbsp;&nbsp;Qualified Software Engineer with <strong>8+</strong> years of hands-on IT experience with main emphasis on <strong>backend development</strong> using <strong>Java</strong>, <strong>Spring</strong> and <strong>Spring Boot</strong> framework with <strong>Microservice architectures</strong>. Participated in leading teams, development of services, components, modules, staff training, writing tests, support and maintenance of existing codebase.<br>
 &nbsp;&nbsp;The strength of me is that I am <strong>Always Sensitive</strong> to modern technologies and <strong>Open to New</strong> things. The past work shows that I understand and embody the needs of customers and be creative on their own.<br>
 &nbsp;&nbsp;I am glad to say that I aim to be the <strong>Perfect Client-Oriented Developer</strong>.
@@ -24,7 +24,6 @@
 </p>
 
 <br><br>
-
 <!-- ## 🤗 Welcome -->
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Technical Stack
