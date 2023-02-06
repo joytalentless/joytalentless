@@ -19,7 +19,7 @@
   <br>
 &nbsp;&nbsp;I am a Java Developer with <strong>8+ years</strong> of experience in developing and maintaining enterprise-level applications. I have expertise in <strong>Java</strong>, <strong>J2EE</strong>, <strong>Spring</strong>, <strong>Hibernate</strong>, and <strong>web services</strong>. I have a proven track record of successful projects and have experience in developing <strong>high-performance</strong> applications using <strong>object-oriented programming</strong>.
 
-Also, I have expertise in Python, Django, Flask, NumPy, SciPy, and Pandas and have expertise in Hyperledger Fabric, Ethereum, Solidity, Bitcoin Core, and other blockchain technologies as well.
+&nbsp;&nbsp;Also, I have expertise in <strong>Python</strong>, <strong>Django</strong>, <strong>Flask</strong>, <strong>NumPy</strong>, <strong>SciPy</strong>, and <strong>Pandas</strong> and have expertise in <strong>Hyperledger Fabric</strong>, <strong>Ethereum</strong>, <strong>Solidity</strong>, <strong>Bitcoin Core</strong>, and other <strong>blockchain technologies</strong> as well.
 &nbsp;&nbsp;The strength of me is that I am <strong>Always Sensitive</strong> to modern technologies and <strong>Open to New</strong> things. The past work shows that I understand and embody the needs of customers and be creative on their own.<br>
 &nbsp;&nbsp;I am glad to say that I aim to be the <strong>Perfect Client-Oriented Developer</strong>.
 
