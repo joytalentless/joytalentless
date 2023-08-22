@@ -96,4 +96,5 @@
 
 <img align="right" alt="" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" /> 
 
- ### Contact me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"> (joy.talentless@gmail.com)
+ ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px" height="20px"> Contact me  
+ - (joy.talentless@gmail.com)
