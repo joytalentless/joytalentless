@@ -1,6 +1,7 @@
  <!-- # Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">-->
 <!-- <a target="blank" href="https://profile-counter.glitch.me/ericvale0128/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/ericvale0128/count.svg" /></a> -->
-<img align="right" width="470" height="270" alt="" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" />
+
+<-- <img align="right" width="470" height="270" alt="" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" /> -->
 
 ## <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="40px" height="40px" /> Thanks for visiting my Git! 
 
@@ -18,26 +19,29 @@
 <!-- ## 🤗 Welcome -->
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Technical Stack
-- ⚡ JavaScript 𒑰 Typescript 𒑰 Node.js 𒑰 HTML5 𒑰 CSS 𒑰 Bootstrap 𒑰 C++ 𒑰 C#
-- 🥇 Angular 𒑰 Angular Material 𒑰 React 𒑰 Material UI 𒑰 Ant Design 𒑰 Tailwind CSS 𒑰 React suite
-- ☕ Java 𒑰 Spring Boot 𒑰 Spring 𒑰 MVC 𒑰 Microservices 𒑰 Java Beans 𒑰 RESTful Web Services 𒑰 AWS 𒑰 GraphQL 𒑰 API integration
-- 📚 Hibernate 𒑰 MySQL 𒑰 MariaDB 𒑰 Postgres 𒑰 MongoDB 𒑰 DynamoDB
+- ⚡ C/C++ 𒑰 JavaScript 𒑰 Typescript 𒑰 Python 𒑰 HTML5 𒑰 CSS 𒑰 SASS
+- 🥇 React 𒑰 Next 𒑰 Angular 𒑰 Angular Material 𒑰 Material UI 𒑰 Ant Design 𒑰 Tailwind CSS 𒑰 React suite 𒑰 Chakra UI
+- ☕ Node.js 𒑰 Express 𒑰 Spring Boot 𒑰 Spring MVC 𒑰 Microservices 𒑰 RESTful API 𒑰 GraphQL 𒑰 API integration
+- 🎥 FFmpeg 𒑰 Gstreamer 𒑰 WebRTC 𒑰 Live/Vod Streaming Setup 𒑰 Image/Video Processing
+- 📚 MySQL 𒑰 MariaDB 𒑰 Postgres 𒑰 MongoDB 𒑰 DynamoDB 𒑰 Sequelize 𒑰 Prisma 𒑰 Hibernate
 - 🎒 Swagger API 𒑰 Zuul 𒑰 Eureka 𒑰 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django
 - 🏹 Chrome extension with React & Redux
-- 🌎 Google Cloud Platforms(GCP) 𒑰 Kubenetes(K8s) 𒑰 AWS S3 𒑰 EC2 𒑰 Firebase
+- 🌎 Google Cloud Platforms(GCP) 𒑰 AWS Serverless Framework 𒑰 AWS S3 𒑰 EC2 𒑰 Firebase
 - 📣 Github 𒑰 GitLab 𒑰 BitBucket 𒑰 Subversions 𒑰 Trello 𒑰 Slack 𒑰 Jira 𒑰 Confluence
-- 🚩 Docker 𒑰 Jenkins 𒑰 JUnit 𒑰 Jetbrain Tools 𒑰 CI/CD 𒑰 SCRUM 𒑰 Agile Methodologies 𒑰 Test-Driven Development(TDD)
+- 🚩 Docker 𒑰 Kubenetes(K8s) 𒑰 Jenkins 𒑰 JUnit 𒑰 Jetbrain Tools 𒑰 CI/CD 𒑰 SCRUM 𒑰 Agile Methodologies 𒑰 Test-Driven Development(TDD)
 
-### 🚧 Current Projects
-- 🍃 RESTful Web Services & Web Services with Spring Boot
+### 🚧 My responsibility mostly included
+- 🍃 Implementing complicated backend logics
+- 🪁 Developing Restful APIs
 - 🔗 Third Party API Integration & OAuth
-- 🎨 Angular 𒑰 Angular Material 𒑰 React 𒑰 Next.js
-- 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
+- 🎨 Integrating payment gateway
+- 💪 Design and developing database
+- 🏠 developing ftonend side and so on
 
 ### 🌱 What I'm boosting
 - 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
-- 📔 Swagger API Documentation
-- 🎩 DevOps 𒑰 CI/CD
+- 📔 System Automation 𒑰 CRM Integration
+- 🎩 Video/Image processing 𒑰 AI
 
 
 <!-- <h3 align="left">🛎 Connect with me:</h3>
