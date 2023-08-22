@@ -10,17 +10,14 @@
 ## <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="36" height="36" /> Thanks for visiting my Git! 
 
 <p >
- 
-<img align="right" width="340" height="300" alt="" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif" />
-<!-- 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=0C2B39&center=true&vCenter=true&width=450&height=70&lines=8%2B+years+of+hands-on+IT+experience;Sincere+and+Reliable+Java+Backend+Developer;Perfect+Client-Oriented+Guy" alt="Typing SVG" /></a> -->
-  <br>
-&nbsp;&nbsp;I am a JavaScript Full Stack Developer with <strong>8+ years</strong> of experience in developing and maintaining enterprise-level applications. I am using <strong>JavaScript</strong> as its primary language and focuses on <strong>frontend</strong> engineering using frameworks like React and Next, and a few other minor frameworks, and also worked on <strong>backend</strong> development using Express & Nest framework based on <strong>Microservice architectures</strong>. I have a proven track record of successful projects and have experience in developing <strong>high-performance</strong> applications using <strong>object-oriented programming</strong>.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=0C2B39&center=true&vCenter=true&width=450&height=70&lines=8%2B+years+of+hands-on+IT+experience;Sincere+and+Reliable+Java+Backend+Developer;Perfect+Client-Oriented+Guy" alt="Typing SVG" /></a> 
+<br>
+&nbsp;&nbsp; As an experienced <strong>Full Stack Developer</strong> with over <strong>8 years</strong> of expertise in developing and maintaining enterprise-level applications, I specialize in <strong>frontend engineering</strong> using frameworks such as React and Next, as well as <strong>backend development</strong> using Express and Nest framework based on <strong>Microservice</strong> architectures. My primary language is <strong>JavaScript</strong>, and I have a proven track record of delivering successful projects and developing <strong>high-performance</strong> applications using <strong>object-oriented</strong> programming.<br>
 
-&nbsp;&nbsp;Also, I have expertise in <strong>Cloud services</strong> like <strong>AWS & GCP</strong> and have expertise in <strong>Video streaming</strong> technologies as Live/VoD Streaming WebRTC, FFmpeg, Gstreamer as well.
-&nbsp;&nbsp;The strength of me is that I am <strong>Always Sensitive</strong> to modern technologies and <strong>Open to New</strong> things. The past work shows that I understand and embody the needs of customers and be creative on their own.<br>
-&nbsp;&nbsp;I am glad to say that I aim to be the <strong>Perfect Client-Oriented Developer</strong>.
+&nbsp;&nbsp; Moreover, I possess expertise in <strong>Cloud services</strong> such as AWS and GCP, and I am knowledgeable in <strong>Video streaming</strong> technologies such as Live/VoD Streaming, WebRTC, FFmpeg, Gstreamer, combined with various <strong>AI/ML</strong> technologies such as face recognition/detection and image processing. 
+&nbsp;&nbsp;I am always up-to-date with <strong>modern technologies</strong> and open to <strong>learning and sharing</strong> ideas with team members. My past work demonstrates my ability to understand and embody the needs of customers and to be creative on my own.<br>
 
+&nbsp;&nbsp;As a <strong>client-oriented</strong> developer, I am committed to exceeding expectations in every project.
 </p>
 
 <br>
