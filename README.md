@@ -7,7 +7,7 @@
 
 
 
-## <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="36" height="36" /> Thanks for visiting my Git! (joy.talentless@gmail.com)
+## <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="36" height="36" /> Thanks for visiting my Git! 
 
 <p >
  
@@ -95,4 +95,5 @@
 
 
 <img align="right" alt="" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" /> 
- 
+
+ ### Contact me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"> (joy.talentless@gmail.com)
