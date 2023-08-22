@@ -1,17 +1,10 @@
  <!-- # Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">-->
 <!-- <a target="blank" href="https://profile-counter.glitch.me/ericvale0128/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/ericvale0128/count.svg" /></a> -->
+<img align="right" width="470" height="270" alt="" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" />
 
-<!-- <img align="right" width="470" height="270" alt="" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" />
- -->
- 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1400&color=F1FBFFF6&background=1B9AD7&center=true&vCenter=true&width=500&lines=Sincere+and+Reliable+Java+Backend+Developer;8+%2B+years+of+hands-on+experience;Perfect+Client-Oriented+Guy" alt="Typing SVG" /></a>
-
-
-
-## <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="36" height="36" /> Thanks for visiting my Git! 
+## <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="40px" height="40px" /> Thanks for visiting my Git! 
 
 <p >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=0C2B39&center=true&vCenter=true&width=450&height=70&lines=8%2B+years+of+hands-on+IT+experience;Sincere+and+Reliable+Java+Backend+Developer;Perfect+Client-Oriented+Guy" alt="Typing SVG" /></a> 
 <br>
 &nbsp;&nbsp; As an experienced <strong>Full Stack Developer</strong> with over <strong>8 years</strong> of expertise in developing and maintaining enterprise-level applications, I specialize in <strong>frontend engineering</strong> using frameworks such as React and Next, as well as <strong>backend development</strong> using Express and Nest framework based on <strong>Microservice</strong> architectures. My primary language is <strong>JavaScript</strong>, and I have a proven track record of delivering successful projects and developing <strong>high-performance</strong> applications using <strong>object-oriented</strong> programming.<br>
 
