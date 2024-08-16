@@ -21,7 +21,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Technical Stack
 - ⚡ C/C++ 𒑰 JavaScript 𒑰 Typescript 𒑰 Python 𒑰 HTML5 𒑰 CSS 𒑰 SASS
 - 🥇 React 𒑰 Next 𒑰 Angular 𒑰 Angular Material 𒑰 Material UI 𒑰 Ant Design 𒑰 Tailwind CSS 𒑰 React suite 𒑰 Chakra UI
-- ☕ Node.js 𒑰 Express 𒑰 Spring Boot 𒑰 Spring MVC 𒑰 Microservices 𒑰 RESTful API 𒑰 GraphQL 𒑰 API integration
+- ☕ Node.js 𒑰 Express 𒑰 PHP 𒑰 Laravel 𒑰 Spring Boot 𒑰 Spring MVC 𒑰 Microservices 𒑰 RESTful API 𒑰 GraphQL 𒑰 API integration
 - 🎥 FFmpeg 𒑰 Gstreamer 𒑰 WebRTC 𒑰 Live/Vod Streaming Setup 𒑰 Image/Video Processing
 - 📚 MySQL 𒑰 MariaDB 𒑰 Postgres 𒑰 MongoDB 𒑰 DynamoDB 𒑰 Sequelize 𒑰 Prisma 𒑰 Hibernate
 - 🎒 Swagger API 𒑰 Zuul 𒑰 Eureka 𒑰 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django
